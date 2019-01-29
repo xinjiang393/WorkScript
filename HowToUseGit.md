@@ -5,7 +5,7 @@
     * git clone repository
 
 - 配置ssh
-    * 进入~路径下，必须保证当前路径在~路径下, 在git命令行敲击 ssh-keygen -t  rsa -C 385832410@qq.com
+    * 进入\~路径下，必须保证当前路径在\~路径下, 在git命令行敲击 ssh-keygen -t  rsa -C 385832410@qq.com
     * 把 ~/.ssh/id_rsa.pub文件的内容放入到github上的`SSH & GPG key`条目下
     * git config --global user.name arthur
     * git config --global user.email 385832410@qq.com
