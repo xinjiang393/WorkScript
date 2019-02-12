@@ -20,7 +20,7 @@ Warning: Permanently added 'github.com,13.229.188.59' (RSA) to the list of known
 Hi xinjiang393! You've successfully authenticated, but GitHub does not provide shell access.
 ```
 - git add filename
-```
+``` bash
 arthur@learnning:~/Project/WorkScript$ git status
 On branch master
 
@@ -34,7 +34,7 @@ Changes to be committed:
 ```
 - git commit -m "Mount Nas dis automatic"
 - git push
-```
+```bash
 arthur@learnning:~/Project/WorkScript$ git push
 Username for 'https://github.com': xinjiang393
 Password for 'https://xinjiang393@github.com': Pur
