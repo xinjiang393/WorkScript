@@ -39,3 +39,8 @@ arthur@learnning:~/Project/WorkScript$ git push
 Username for 'https://github.com': xinjiang393
 Password for 'https://xinjiang393@github.com': Pur
 ```
+- 更改远端仓库地址
+```
+arthur@learnning:~/Test-before-working/python_basics$ git remote set-url origin https://github.com/xinjiang393/Learning-befWork.git
+arthur@learnning:~/Test-before-working/python_basics$ git push origin master
+```
